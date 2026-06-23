@@ -221,8 +221,8 @@ strong, b {
 }
 
 .home-header .photo {
-  width: 170px;
-  height: 210px;
+  width: 510px;
+  height: 630px;
   object-fit: cover;
   object-position: top center;
   border: 1px solid var(--rule);
@@ -604,8 +604,8 @@ footer a:hover {
   }
 
   .home-header .photo {
-    width: 140px;
-    height: 170px;
+    width: 420px;
+    height: 510px;
   }
 
   .photo-row {
